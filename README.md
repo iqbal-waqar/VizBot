@@ -1,6 +1,6 @@
 # 🤖 VizBot Analytics
 
-**AI-Powered Exploratory Data Analysis Platform**
+**AI-Powered Exploratory Data Analysis (EDA) Platform**
 
 > *Transform your data analysis workflow with intelligent automation. VizBot Analytics eliminates 80% of manual EDA work through advanced AI agents, delivering comprehensive insights in minutes instead of hours.*
 
