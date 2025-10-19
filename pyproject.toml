@@ -1,5 +1,5 @@
 [project]
-name = "Ai-Agent Powered EDA"
+name = "ai-agent-powered-eda"
 version = "0.1.0"
 description = "Data Analytics Agent"
 requires-python = ">=3.11"
